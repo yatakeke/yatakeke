@@ -1,16 +1,13 @@
-### Hi there 👋
+## プロフィール
+矢田進之介
 
-<!--
-**yatakeke/yatakeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 大切にしている価値観
 
-Here are some ideas to get you started:
+## 取得資格
+- Certified Scrum Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 経歴
+
+## 登壇歴
+
+## コミュニティ活動

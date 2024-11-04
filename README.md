@@ -3,6 +3,15 @@
 
 ## 大切にしている価値観
 
+### 仕事をする上でリファレンスにしている本
+- 達人プログラマー
+- プロダクトマネージャーのしごと
+- アジャイルサムライ
+- fearless change
+- リファクタリング
+- オブジェクト指向のこころ
+- clean craftmanship
+
 ## 取得資格
 - Certified Scrum Developer
 

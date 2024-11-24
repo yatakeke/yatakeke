@@ -27,8 +27,6 @@
 - TBD
 
 ## 登壇歴
-- [なんとなくわかった気になる開発者としての寸劇の作り方](https://speakerdeck.com/yatakeke/wakatutaqi-ninaruenzinialiu-cun-ju-nozuo-rifang)
-  - XP祭り2022
 - [スキル差があるペア・モブプロで効果的な、ドライバーナビゲータ以外のロールの分け方](https://speakerdeck.com/yatakeke/sukiruchai-kaaruhea-mohuhurotexiao-guo-de-na-toraihanahiketayi-wai-nororunofen-kefang)
   - scrum fest mikawa 2023
 - [アジャイル系カンファレンスでの5つの寸劇作りを通して得た本当に価値のあるプロダクトの作り方](https://speakerdeck.com/yatakeke/aziyairuxi-kanhuarensudeno5tunocun-ju-zuo-riwotong-sitede-ta-ben-dang-nijia-zhi-noarupurodakutonozuo-rifang)

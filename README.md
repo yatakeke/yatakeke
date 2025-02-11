@@ -14,6 +14,7 @@
 
 ## 取得資格
 - Certified Scrum Developer
+- Certified Scrum Product Owner
 
 ## 経歴
 
